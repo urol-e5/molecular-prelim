@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="Spis" hasGeneTrack="false" hasSequenceTrack="true" locus="Spis.scaffold1|size2969787:1-2969787" path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/igv/050620.xml" version="8">
+    <Resources>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.2C.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.4B.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.2B.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.4A.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.8A.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_8.1A.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.4C.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.8B.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.8C.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/data/Spis.genome.annotation.gff3"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_8.1B.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.2A.bedgraph"/>
+        <Resource path="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_8.1C.bedgraph"/>
+    </Resources>
+    <Panel height="586" name="DataPanel" width="1427">
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_8.1C.bedgraph" name="spis_pH_8.1C.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_8.1B.bedgraph" name="spis_pH_8.1B.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_8.1A.bedgraph" name="spis_pH_8.1A.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="204,51,255" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.8C.bedgraph" name="spis_pH_7.8C.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="204,51,255" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.8B.bedgraph" name="spis_pH_7.8B.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="204,51,255" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.8A.bedgraph" name="spis_pH_7.8A.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="255,51,0" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.4C.bedgraph" name="spis_pH_7.4C.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="255,51,0" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.4B.bedgraph" name="spis_pH_7.4B.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="255,51,0" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.4A.bedgraph" name="spis_pH_7.4A.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="mean">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,255,51" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.2C.bedgraph" name="spis_pH_7.2C.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="median">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,255,51" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.2B.bedgraph" name="spis_pH_7.2B.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="median">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.DataSourceTrack" color="0,255,51" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/analyses/spis_pH_7.2A.bedgraph" name="spis_pH_7.2A.bedgraph" normalize="false" renderer="BAR_CHART" sortable="true" visible="true" windowFunction="median">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="100.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+    </Panel>
+    <Panel height="75" name="FeaturePanel" width="1427">
+        <Track altColor="0,0,178" autoScale="false" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="Reference sequence" name="Reference sequence" sortable="false" visible="true"/>
+        <Track altColor="0,0,178" autoScale="false" clazz="org.broad.igv.track.FeatureTrack" color="0,0,178" displayMode="COLLAPSED" featureVisibilityWindow="-1" fontSize="10" id="/Users/sr320/Documents/GitHub/molecular-prelim/data/Spis.genome.annotation.gff3" name="Spis.genome.annotation.gff3" renderer="BASIC_FEATURE" sortable="false" visible="true" windowFunction="count"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.8802395209580839"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
